@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">天天吃什么</string>
+    <string name="hello_world">Hello world!</string>
+	
+	<string name="exclusive">排除最近两次的结果：</string>
+	
+	<string name="range">距离：</string>
+	<string name="range_start">300米</string>
+	<string name="range_end">5000米</string>
+	
+	<string name="price">价格：</string>
+	<string name="price_start">￥0</string>
+	<string name="price_end">￥500</string>
+	
+	<string name="range_metre">米</string>
+	<string name="save">保存</string>
+</resources>
